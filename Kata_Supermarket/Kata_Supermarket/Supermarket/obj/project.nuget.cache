@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "i4SIY/oWKRdN+lalLrgzywA0Wf92M7/6oF3smXwpt5+Lw18yYb1WXXw+4VK2UpIbzJwC48pB1PVgg17kerXbfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ackipre\\Desktop\\Projet c#\\Kata_Supermarket\\Kata_Supermarket\\Supermarket\\Supermarket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ackipre\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ackipre\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
